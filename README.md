@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Girish VijayKumar Nikalje</h1>
+- Connect me with **Contact - +919403255131 | Email - n.girish31@gmail.com**
 <h3 align="center">A passionate DevOps and MLOps Engineer with over 20+ years of experience in IT</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=girishvn0331&label=Profile%20views&color=0e75b6&style=flat" alt="girishvn0331" /> </p>
@@ -7,17 +8,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently Working at:Quest Global [2021-2025](Technical Lead (3y,6 mon))
+* 🔭 I’m currently Working at:Quest Global [2021-2025](Technical Lead (3y,6 mon))
 
-- Connect me with **Contact - +919403255131 | Email - n.girish31@gmail.com**
+* SPECIALIST | VIEWICS INDIA PRIVATE LIMITED [2020-2021](DevOps Specialist (1y,3 mon))
 
-- SPECIALIST | VIEWICS INDIA PRIVATE LIMITED [2020-2021](DevOps Specialist (1y,3 mon))
+* IBM India PVT.Ltd [2009-2020](Sr System Specialist(11y,1mon))
 
-- IBM India PVT.Ltd [2009-2020](Sr System Specialist(11y,1mon))
+* 👨‍💻 All of my projects are available at [https://github.com/girishvn0331](https://github.com/girishvn0331)
 
-- 👨‍💻 All of my projects are available at [https://github.com/girishvn0331](https://github.com/girishvn0331)
-
-- Blogs [https://www.redbooks.ibm.com/abstracts/sg248057.html?Open](https://www.redbooks.ibm.com/abstracts/sg248057.html?Open)
+# Blogs [https://www.redbooks.ibm.com/abstracts/sg248057.html?Open](https://www.redbooks.ibm.com/abstracts/sg248057.html?Open)
 
 - 💬 Ask me about
 - **DevOps & Automation: Terraform, Ansible, Puppet, Jenkins, TravisCI, GitHub, UrbanCode Deploy
