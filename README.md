@@ -19,11 +19,22 @@
 
 - Blogs [https://www.redbooks.ibm.com/abstracts/sg248057.html?Open](https://www.redbooks.ibm.com/abstracts/sg248057.html?Open)
 
-- 💬 Ask me about **DevOps & Automation: Terraform, Ansible, Puppet, Jenkins, TravisCI, GitHub, UrbanCode Deploy Containerization & Orchestration: Docker, Kubernetes, OpenShift, Cisco Containerized Platform MLOps & AI/ML: Databricks, Azure ML, AWS SageMaker, MLflow, Kubeflow Cloud Platforms: Microsoft Azure, AWS, Google Cloud Platform (GCP), IBM SoftLayer Infrastructure & Networking: Azure Kubernetes Service (AKS), AWS ECS, CloudFormation, VPC, Subnets, Load Balancers Monitoring & Logging: Prometheus, Grafana, ELK Stack, Nagios Testing & Performance: IBM Rational Performance Tester, Selenium Middleware & Enterprise Solutions: IBM WebSphere, IBM Rational Products**
+- 💬 Ask me about
+- **DevOps & Automation: Terraform, Ansible, Puppet, Jenkins, TravisCI, GitHub, UrbanCode Deploy
+- Containerization & Orchestration: Docker, Kubernetes, OpenShift,
+- Cisco Containerized Platform MLOps & AI/ML: Databricks, Azure ML, AWS SageMaker, MLflow, Kubeflow Cloud Platforms: Microsoft Azure, AWS, Google Cloud Platform (GCP),
+- IBM SoftLayer Infrastructure & Networking: Azure Kubernetes Service (AKS), AWS ECS, CloudFormation, VPC, Subnets, Load Balancers Monitoring & Logging: Prometheus, Grafana, ELK Stack,
+- Nagios Testing & Performance: IBM Rational Performance Tester, Selenium Middleware & Enterprise Solutions: IBM WebSphere, IBM Rational Products**
 
 - 📫 How to reach me **n.girish31@gmail.com**
 
-- ⚡ CERTIFICATIONS **✓ Generative AI Fundamentals from Databricks ✓ Mastering in Digital Twins ✓ Docker Essentials Badge (IBM) ✓ Microsoft Certified System Engineer (M.C.S.E.) ✓ IBM Certified Lotus Notes Specialist (C.L.S.) ✓ Cisco Certified Network Associate (CCNA) ✓ IBM AIX system P Server (000-223) ✓ ITIL Version 3 Certified.**
+- ⚡ CERTIFICATIONS **✓ Generative AI Fundamentals from Databricks
+-  ✓ Mastering in Digital Twins ✓ Docker Essentials Badge (IBM)
+-  ✓ Microsoft Certified System Engineer (M.C.S.E.)
+-  ✓ IBM Certified Lotus Notes Specialist (C.L.S.)
+-  ✓ Cisco Certified Network Associate (CCNA)
+-  ✓ IBM AIX system P Server (000-223)
+-  ✓ ITIL Version 3 Certified.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
