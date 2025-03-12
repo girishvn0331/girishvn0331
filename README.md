@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Girish VijayKumar Nikalje</h1>
-- Connect me with **Contact - +919403255131 | Email - n.girish31@gmail.com**
+- Connect me with Email --> n.girish31@gmail.com**
 <h3 align="center">A passionate DevOps and MLOps Engineer with over 20+ years of experience in IT</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=girishvn0331&label=Profile%20views&color=0e75b6&style=flat" alt="girishvn0331" /> </p>
