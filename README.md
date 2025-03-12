@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Girish VijayKumar Nikalje</h1>
 - Connect me with Email --> n.girish31@gmail.com**
-<h3 align="center">A passionate DevOps and MLOps Engineer with over 20+ years of experience in IT</h3>
+<h3 align="center">A passionate DevOps and MLOps Architect with over 20+ years of experience in IT</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=girishvn0331&label=Profile%20views&color=0e75b6&style=flat" alt="girishvn0331" /> </p>
 
@@ -8,26 +8,23 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-* 🔭 I’m currently Working at:Quest Global [2021-2025](Technical Lead (3y,6 mon))
-
-* SPECIALIST | VIEWICS INDIA PRIVATE LIMITED [2020-2021](DevOps Specialist (1y,3 mon))
-
-* IBM India PVT.Ltd [2009-2020](Sr System Specialist(11y,1mon))
 
 * 👨‍💻 All of my projects are available at [https://github.com/girishvn0331](https://github.com/girishvn0331)
 
-# Blogs [https://www.redbooks.ibm.com/abstracts/sg248057.html?Open](https://www.redbooks.ibm.com/abstracts/sg248057.html?Open)
+# My [Publication](https://www.redbooks.ibm.com/abstracts/sg248057.html?Open) Workload Optimized Systems–Tuning POWER7 
 
 - 💬 Ask me about
-- **DevOps & Automation: Terraform, Ansible, Puppet, Jenkins, TravisCI, GitHub, UrbanCode Deploy
-- Containerization & Orchestration: Docker, Kubernetes, OpenShift,
-- Cisco Containerized Platform MLOps & AI/ML: Databricks, Azure ML, AWS SageMaker, MLflow, Kubeflow Cloud Platforms: Microsoft Azure, AWS, Google Cloud Platform (GCP),
-- IBM SoftLayer Infrastructure & Networking: Azure Kubernetes Service (AKS), AWS ECS, CloudFormation, VPC, Subnets, Load Balancers Monitoring & Logging: Prometheus, Grafana, ELK Stack,
-- Nagios Testing & Performance: IBM Rational Performance Tester, Selenium Middleware & Enterprise Solutions: IBM WebSphere, IBM Rational Products**
+  
+- DevOps & Automation: Terraform, Ansible, Puppet, Jenkins, TravisCI, GitHub, UrbanCode Deploy
+- Containerization & Orchestration: Docker, Kubernetes, OpenShift
+- Cisco Containerized Platform MLOps & AI/ML: Databricks, Azure ML, AWS SageMaker, MLflow, Kubeflow Cloud Platforms: Microsoft Azure, AWS, Google Cloud Platform (GCP)
+- IBM SoftLayer Infrastructure & Networking: Azure Kubernetes Service (AKS), AWS ECS, CloudFormation, VPC, Subnets, Load Balancers Monitoring & Logging: Prometheus, Grafana, ELK Stack
+- Nagios Testing & Performance: IBM Rational Performance Tester, Selenium Middleware & Enterprise Solutions: IBM WebSphere, IBM Rational Products
 
 - 📫 How to reach me **n.girish31@gmail.com**
 
-- ⚡ CERTIFICATIONS **✓ Generative AI Fundamentals from Databricks
+- ⚡ CERTIFICATIONS **
+-  ✓ Generative AI Fundamentals from Databricks
 -  ✓ Mastering in Digital Twins ✓ Docker Essentials Badge (IBM)
 -  ✓ Microsoft Certified System Engineer (M.C.S.E.)
 -  ✓ IBM Certified Lotus Notes Specialist (C.L.S.)
